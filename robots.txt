@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hahuyen20031993.github.io/668bet-Oficial-2026-Jogos-Online-Slot-Brasil/sitemap.xml
